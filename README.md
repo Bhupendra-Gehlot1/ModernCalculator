@@ -1,4 +1,4 @@
-Modern Calculator
+# ModernCalculator
 Modern Calculator is a web-based calculator application designed for both basic arithmetic operations and advanced mathematical functions. The calculator offers a sleek and user-friendly interface, providing a convenient tool for users to perform calculations with ease.
 
 Features
