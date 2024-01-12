@@ -44,3 +44,5 @@ Technologies Used
 HTML: The structure of the calculator is built using HTML.
 CSS: Styling is done using CSS to create an attractive and responsive design.
 JavaScript: Calculator functionality is implemented using JavaScript to handle user interactions and perform calculations.
+
+Deployed Link: https://bhupendra-gehlot1.github.io/ModernCalculator/
